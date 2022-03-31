@@ -36,3 +36,7 @@
  > launchctl list | grep couchdb
 
 Обновил html, сделал sync, фамилия появилась
+
+Файлик PouchDB.html в репозиторий добавил
+
+На github pages залил https://nickzay.github.io/BDHomeworkCouchDB-PouchDB/PouchDB.html
